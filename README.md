@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python & Django & Flask
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me... wait for it...
-- ⛔ Most of my projects are private. I'm sure you understand, friend
+- ⛔ Most of my projects are private. I'm sure you understand my friend
